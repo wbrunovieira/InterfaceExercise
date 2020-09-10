@@ -1,0 +1,12 @@
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.AssemblyInfoInputs.cache
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.AssemblyInfo.cs
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.deps.json
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.runtimeconfig.json
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.runtimeconfig.dev.json
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.dll
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/bin/Debug/netcoreapp3.0/InterfaceExercise.pdb
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.dll
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.pdb
+/Users/walterbrunopradovieira/repos/InterfaceExercise/InterfaceExercise/obj/Debug/netcoreapp3.0/InterfaceExercise.genruntimeconfig.cache

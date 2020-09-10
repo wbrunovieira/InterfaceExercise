@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1C8B983D-F49A-4103-BCD8-2BF96485B3DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceExercise/Truck.cs">
+    <Files>
+      <File FileName="InterfaceExercise/Program.cs" Line="24" Column="27" />
+      <File FileName="InterfaceExercise/IVehicle.cs" Line="16" Column="26" />
+      <File FileName="InterfaceExercise/ICompany.cs" />
+      <File FileName="InterfaceExercise/Car.cs" Line="47" Column="10" />
+      <File FileName="InterfaceExercise/Truck.cs" Line="22" Column="1" />
+      <File FileName="InterfaceExercise/SUV.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceExercise" expanded="True">
+            <Node name="InterfaceExercise" expanded="True">
+              <Node name="Truck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InterfaceExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
